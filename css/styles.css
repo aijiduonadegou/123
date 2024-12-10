@@ -1,1 +1,18 @@
+#container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
 
+#idiom-title {
+    margin-bottom: 20px;
+}
+
+#text-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#image-container img {
+    max-width: 100%;
+    height: auto;
+}
