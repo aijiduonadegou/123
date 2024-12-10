@@ -15,6 +15,6 @@ document.addEventListener('DOMContentLoaded', function() {
     descriptionList.appendChild(listItem);
 
     // 设置图片路径为你的图片路径
-    const imagePath = 'E:\代码作业\作业github网页.1\海报展示\img'; // 替换为实际图片路径
+    const imagePath = './img/image.png'; // 替换为实际图片路径
     document.getElementById('generated-image').src = imagePath;
 });
